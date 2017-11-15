@@ -8,11 +8,11 @@
 * Instale [NodeJS](https://nodejs.org/es/)
 * Instale [gitbook](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md) en su ordenador
 * Instale [`gulp`](https://gulpjs.com/) globalmente: `npm i -g gulp`
-* Instale las dependencias de este proyecto `npm i`
+* Instale las dependencias de este libro/proyecto `npm i`
 * Escriba en [markdown](https://es.wikipedia.org/wiki/Markdown)  los textos que desee
 * Compile el libro con `gulp build` para producir el HTML
 * Para desplegar su version en GitHub escriba `gulp deploy`
-* Visite [https://ull-lsi.github.io/](https://ull-lsi.github.io/_book/)
+* Visite [https://ull-lsi.github.io/](https://ull-lsi.github.io/_book/) para ver el resultado
 
 ## Enlaces 
 
