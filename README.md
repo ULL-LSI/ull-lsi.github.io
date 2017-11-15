@@ -1,7 +1,7 @@
 # Página del área LSI de la  ULL en GitHub
 
 
-## Instrucciones para los autores
+## Instrucciones para los miembros de área que quieran trabajar como autores
 
 * Instale gitbook en su ordenador
 * Instale las dependencias de este proyecto `npm i`
