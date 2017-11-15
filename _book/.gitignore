@@ -1,5 +1,6 @@
 _book-git
 package-lock.json
+*.bak
 # Logs
 logs
 *.log
