@@ -3,6 +3,7 @@
 
 ## Instrucciones para los miembros de área que quieran trabajar como autores
 
+* El libro está alojado en el repo [ULL-LSI/ull-lsi.github.io](https://github.com/ULL-LSI/ull-lsi.github.io)
 * Instale [git](https://git-scm.com/)
 * Clone el libro en su máquina: `git clone git@github.com:ULL-LSI/ull-lsi.github.io.git` o bien `git clone https://github.com/ULL-LSI/ull-lsi.github.io.git`
 * Instale [NodeJS](https://nodejs.org/es/)
