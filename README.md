@@ -4,8 +4,7 @@
 ## Instrucciones para los miembros de área que quieran trabajar como autores
 
 * Instale [git](https://git-scm.com/)
-* Clone el libro en su máquina: `git clone git@github.com:ULL-LSI/ull-lsi.github.io.git`
-o bien `https://github.com/ULL-LSI/ull-lsi.github.io.git`
+* Clone el libro en su máquina: `git clone git@github.com:ULL-LSI/ull-lsi.github.io.git` o bien `https://github.com/ULL-LSI/ull-lsi.github.io.git`
 * Instale [gitbook](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md) en su ordenador
 * Instale `gulp` globalmente: `npm i -g gulp`
 * Instale las dependencias de este proyecto `npm i`
