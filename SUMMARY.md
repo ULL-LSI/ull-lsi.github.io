@@ -8,4 +8,5 @@
 * [Departamento de Ingeniería Informática y de Sistemas](https://www.ull.es/departamentos/ingenieria-informatica-sistemas/)
   - [Personal](https://www.ull.es/departamentos/ingenieria-informatica-sistemas/personal/)
 * [ETSII](https://www.ull.es/view/centros/etsii/Inicio/es)
+* [Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)](grupos-de-investigacion.md)
 
