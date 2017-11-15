@@ -1,3 +1,5 @@
+##  Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)
+
 *   [Algoritmos y lenguajes paralelos.](https://www.ull.es/investigacion/grupos-investigacion/algoritmos-y-lenguajes-paralelos/)
 *   [Grupo de Computación de Altas Prestaciones (GCAP)](https://www.ull.es/investigacion/grupos-investigacion/grupo-de-computacion-de-altas-prestaciones-gcap/)
 *   [Grupo de optimización y minería de datos](https://www.ull.es/investigacion/grupos-investigacion/grupo-de-optimizacion-y-mineria-de-datos/)
