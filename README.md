@@ -3,7 +3,7 @@
 
 ## Instrucciones para los miembros de área que quieran trabajar como autores
 
-* Instale gitbook en su ordenador
+* Instale [gitbook](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md) en su ordenador
 * Instale las dependencias de este proyecto `npm i`
 * Escriba en markdown  los textos que desee
 * Compile con `gulp build`
