@@ -10,3 +10,8 @@
 * Compile el libro con `gulp build` para producir el HTML
 * Para desplegar su version en GitHub escriba `gulp deploy`
 * Visite [https://ull-lsi.github.io/](https://ull-lsi.github.io/_book/)
+
+## Enlaces 
+
+* [LSI en el Campus Virtual](https://campusvirtual.ull.es/entornos/mod/forum/discuss.php?d=1783)
+* [Departamento de Ingeniería Informática y de Sistemas](https://www.ull.es/departamentos/ingenieria-informatica-sistemas/)
