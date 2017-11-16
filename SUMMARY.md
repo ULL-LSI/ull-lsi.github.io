@@ -12,3 +12,4 @@
   - [DIIS en el Campus Virtual](https://campusvirtual.ull.es/entornos/course/view.php?id=586)
 * [ETSII](https://www.ull.es/view/centros/etsii/Inicio/es)
   - [Centro de Cálculo](http://cc.etsii.ull.es/)
+    - [Horarios de Salas](http://cc.etsii.ull.es/node/17)
