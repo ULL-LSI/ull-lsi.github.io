@@ -6,6 +6,7 @@
   - [Comisiones](https://campusvirtual.ull.es/entornos/mod/page/view.php?id=61492)
   - [Personal](https://campusvirtual.ull.es/entornos/user/index.php?contextid=48392)
   - [Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)](grupos-de-investigacion.md)
+     - [Aula Cultural Pensamiento Computacional](https://sites.google.com/a/ull.edu.es/pensamiento-computacional/)
 * [Departamento de Ingeniería Informática y de Sistemas](https://www.ull.es/departamentos/ingenieria-informatica-sistemas/)
   - [Personal](https://www.ull.es/departamentos/ingenieria-informatica-sistemas/personal/)
   - [Tutorías](https://docs.google.com/spreadsheets/d/1Ib_pSZcnagKwWyLvLmX5Hzref0JeLX0mKcVPnGrOglQ/edit#gid=0)
