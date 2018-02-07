@@ -2,7 +2,7 @@
 
 Véase [Grupos de investigación](https://www.ull.es/investigacion/grupos-investigacion/) de la ULL
 
-*   [Algoritmos y lenguajes paralelos.](https://www.ull.es/investigacion/grupos-investigacion/algoritmos-y-lenguajes-paralelos/)
+*   [Algoritmos y Lenguajes paralelos.](https://pal-ull.github.io/_book/)
    - [Aula Cultural Pensamiento Computacional](https://sites.google.com/a/ull.edu.es/pensamiento-computacional/)
    - [Tomas-Morph](https://github.com/Tomas-Morph/)
 *   [Grupo de Computación de Altas Prestaciones (GCAP)](https://www.ull.es/investigacion/grupos-investigacion/grupo-de-computacion-de-altas-prestaciones-gcap/)
